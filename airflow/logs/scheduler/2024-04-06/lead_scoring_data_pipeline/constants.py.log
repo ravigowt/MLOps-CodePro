@@ -1,0 +1,430 @@
+[2024-04-06 12:44:46,537] {processor.py:153} INFO - Started process (PID=1069) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:44:46,538] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:44:46,539] {logging_mixin.py:115} INFO - [2024-04-06 12:44:46,539] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:44:46,540] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:44:46,550] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.015 seconds
+[2024-04-06 12:46:25,434] {processor.py:153} INFO - Started process (PID=1442) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:46:25,436] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:46:25,437] {logging_mixin.py:115} INFO - [2024-04-06 12:46:25,437] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:46:25,438] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:46:25,449] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 12:47:12,604] {processor.py:153} INFO - Started process (PID=1509) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:47:12,606] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:47:12,607] {logging_mixin.py:115} INFO - [2024-04-06 12:47:12,607] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:47:12,608] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:47:12,620] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.020 seconds
+[2024-04-06 12:47:50,946] {processor.py:153} INFO - Started process (PID=1572) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:47:50,948] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:47:50,948] {logging_mixin.py:115} INFO - [2024-04-06 12:47:50,948] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:47:50,950] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:47:50,961] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 12:48:32,871] {processor.py:153} INFO - Started process (PID=1635) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:48:32,872] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:48:32,873] {logging_mixin.py:115} INFO - [2024-04-06 12:48:32,873] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:48:32,874] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:48:32,886] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 12:49:19,152] {processor.py:153} INFO - Started process (PID=1700) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:49:19,154] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:49:19,155] {logging_mixin.py:115} INFO - [2024-04-06 12:49:19,155] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:49:19,156] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:49:19,168] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.020 seconds
+[2024-04-06 12:49:58,482] {processor.py:153} INFO - Started process (PID=1764) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:49:58,484] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:49:58,484] {logging_mixin.py:115} INFO - [2024-04-06 12:49:58,484] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:49:58,486] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:49:58,497] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 12:50:46,832] {processor.py:153} INFO - Started process (PID=1835) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:50:46,834] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:50:46,835] {logging_mixin.py:115} INFO - [2024-04-06 12:50:46,835] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:50:46,837] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:50:46,849] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.020 seconds
+[2024-04-06 12:51:23,206] {processor.py:153} INFO - Started process (PID=1896) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:51:23,208] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:51:23,209] {logging_mixin.py:115} INFO - [2024-04-06 12:51:23,209] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:51:23,210] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:51:23,222] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 12:52:02,799] {processor.py:153} INFO - Started process (PID=1958) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:52:02,801] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:52:02,801] {logging_mixin.py:115} INFO - [2024-04-06 12:52:02,801] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:52:02,803] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:52:02,814] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 12:52:43,747] {processor.py:153} INFO - Started process (PID=2022) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:52:43,749] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:52:43,749] {logging_mixin.py:115} INFO - [2024-04-06 12:52:43,749] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:52:43,751] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:52:43,762] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 12:53:20,976] {processor.py:153} INFO - Started process (PID=2084) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:53:20,978] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:53:20,979] {logging_mixin.py:115} INFO - [2024-04-06 12:53:20,978] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:53:20,980] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:53:20,993] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.021 seconds
+[2024-04-06 12:53:57,897] {processor.py:153} INFO - Started process (PID=2146) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:53:57,899] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:53:57,899] {logging_mixin.py:115} INFO - [2024-04-06 12:53:57,899] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:53:57,901] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:53:57,914] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.021 seconds
+[2024-04-06 12:54:46,112] {processor.py:153} INFO - Started process (PID=2230) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:54:46,113] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:54:46,114] {logging_mixin.py:115} INFO - [2024-04-06 12:54:46,114] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:54:46,115] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:54:46,127] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 12:55:28,268] {processor.py:153} INFO - Started process (PID=2303) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:55:28,271] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:55:28,271] {logging_mixin.py:115} INFO - [2024-04-06 12:55:28,271] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:55:28,273] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:55:28,285] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.020 seconds
+[2024-04-06 12:56:07,351] {processor.py:153} INFO - Started process (PID=2370) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:56:07,352] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:56:07,353] {logging_mixin.py:115} INFO - [2024-04-06 12:56:07,353] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:56:07,354] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:56:07,366] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 12:56:50,039] {processor.py:153} INFO - Started process (PID=2439) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:56:50,041] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:56:50,042] {logging_mixin.py:115} INFO - [2024-04-06 12:56:50,042] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:56:50,043] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:56:50,055] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.020 seconds
+[2024-04-06 12:57:30,931] {processor.py:153} INFO - Started process (PID=2508) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:57:30,933] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:57:30,934] {logging_mixin.py:115} INFO - [2024-04-06 12:57:30,933] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:57:30,935] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:57:30,946] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 12:58:11,632] {processor.py:153} INFO - Started process (PID=2576) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:58:11,633] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:58:11,634] {logging_mixin.py:115} INFO - [2024-04-06 12:58:11,634] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:58:11,635] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:58:11,647] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 12:58:54,584] {processor.py:153} INFO - Started process (PID=2651) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:58:54,593] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:58:54,594] {logging_mixin.py:115} INFO - [2024-04-06 12:58:54,594] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:58:54,595] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:58:54,606] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.025 seconds
+[2024-04-06 12:59:43,595] {processor.py:153} INFO - Started process (PID=2733) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:59:43,597] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 12:59:43,597] {logging_mixin.py:115} INFO - [2024-04-06 12:59:43,597] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:59:43,599] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 12:59:43,610] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:00:26,384] {processor.py:153} INFO - Started process (PID=2803) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:00:26,386] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:00:26,386] {logging_mixin.py:115} INFO - [2024-04-06 13:00:26,386] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:00:26,388] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:00:26,399] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:01:09,886] {processor.py:153} INFO - Started process (PID=2873) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:01:09,888] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:01:09,888] {logging_mixin.py:115} INFO - [2024-04-06 13:01:09,888] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:01:09,890] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:01:09,901] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:01:47,867] {processor.py:153} INFO - Started process (PID=2941) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:01:47,868] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:01:47,869] {logging_mixin.py:115} INFO - [2024-04-06 13:01:47,869] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:01:47,870] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:01:47,881] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:02:23,023] {processor.py:153} INFO - Started process (PID=3004) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:02:23,026] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:02:23,026] {logging_mixin.py:115} INFO - [2024-04-06 13:02:23,026] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:02:23,027] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:02:23,038] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:03:02,567] {processor.py:153} INFO - Started process (PID=3072) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:03:02,569] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:03:02,570] {logging_mixin.py:115} INFO - [2024-04-06 13:03:02,570] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:03:02,571] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:03:02,583] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:03:41,219] {processor.py:153} INFO - Started process (PID=3139) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:03:41,221] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:03:41,221] {logging_mixin.py:115} INFO - [2024-04-06 13:03:41,221] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:03:41,222] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:03:41,234] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:04:19,432] {processor.py:153} INFO - Started process (PID=3205) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:04:19,434] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:04:19,434] {logging_mixin.py:115} INFO - [2024-04-06 13:04:19,434] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:04:19,436] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:04:19,447] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:05:02,330] {processor.py:153} INFO - Started process (PID=3276) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:05:02,332] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:05:02,332] {logging_mixin.py:115} INFO - [2024-04-06 13:05:02,332] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:05:02,334] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:05:02,346] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:05:44,966] {processor.py:153} INFO - Started process (PID=3348) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:05:44,968] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:05:44,969] {logging_mixin.py:115} INFO - [2024-04-06 13:05:44,968] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:05:44,970] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:05:44,982] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:06:27,178] {processor.py:153} INFO - Started process (PID=3418) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:06:27,180] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:06:27,181] {logging_mixin.py:115} INFO - [2024-04-06 13:06:27,181] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:06:27,182] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:06:27,194] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:07:08,292] {processor.py:153} INFO - Started process (PID=3490) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:07:08,293] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:07:08,294] {logging_mixin.py:115} INFO - [2024-04-06 13:07:08,294] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:07:08,295] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:07:08,307] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:07:47,268] {processor.py:153} INFO - Started process (PID=3561) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:07:47,270] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:07:47,270] {logging_mixin.py:115} INFO - [2024-04-06 13:07:47,270] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:07:47,272] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:07:47,284] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.021 seconds
+[2024-04-06 13:08:25,299] {processor.py:153} INFO - Started process (PID=3642) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:08:25,301] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:08:25,301] {logging_mixin.py:115} INFO - [2024-04-06 13:08:25,301] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:08:25,303] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:08:25,314] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:09:05,907] {processor.py:153} INFO - Started process (PID=3725) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:09:05,908] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:09:05,909] {logging_mixin.py:115} INFO - [2024-04-06 13:09:05,909] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:09:05,910] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:09:05,921] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:09:46,046] {processor.py:153} INFO - Started process (PID=3791) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:09:46,048] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:09:46,049] {logging_mixin.py:115} INFO - [2024-04-06 13:09:46,049] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:09:46,050] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:09:46,062] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:10:27,269] {processor.py:153} INFO - Started process (PID=3862) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:10:27,271] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:10:27,272] {logging_mixin.py:115} INFO - [2024-04-06 13:10:27,272] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:10:27,273] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:10:27,284] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.017 seconds
+[2024-04-06 13:11:07,307] {processor.py:153} INFO - Started process (PID=3929) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:11:07,309] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:11:07,310] {logging_mixin.py:115} INFO - [2024-04-06 13:11:07,310] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:11:07,311] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:11:07,323] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:11:49,995] {processor.py:153} INFO - Started process (PID=3999) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:11:49,996] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:11:49,997] {logging_mixin.py:115} INFO - [2024-04-06 13:11:49,997] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:11:49,998] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:11:50,010] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:12:32,599] {processor.py:153} INFO - Started process (PID=4068) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:12:32,601] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:12:32,601] {logging_mixin.py:115} INFO - [2024-04-06 13:12:32,601] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:12:32,603] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:12:32,614] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:13:16,807] {processor.py:153} INFO - Started process (PID=4155) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:13:16,809] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:13:16,809] {logging_mixin.py:115} INFO - [2024-04-06 13:13:16,809] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:13:16,811] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:13:16,823] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:14:00,483] {processor.py:153} INFO - Started process (PID=4240) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:14:00,485] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:14:00,485] {logging_mixin.py:115} INFO - [2024-04-06 13:14:00,485] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:14:00,486] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:14:00,497] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:14:39,664] {processor.py:153} INFO - Started process (PID=4307) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:14:39,666] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:14:39,667] {logging_mixin.py:115} INFO - [2024-04-06 13:14:39,667] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:14:39,668] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:14:39,681] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.021 seconds
+[2024-04-06 13:15:21,331] {processor.py:153} INFO - Started process (PID=4380) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:15:21,333] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:15:21,333] {logging_mixin.py:115} INFO - [2024-04-06 13:15:21,333] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:15:21,335] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:15:21,347] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.020 seconds
+[2024-04-06 13:16:05,810] {processor.py:153} INFO - Started process (PID=4451) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:16:05,812] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:16:05,813] {logging_mixin.py:115} INFO - [2024-04-06 13:16:05,812] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:16:05,814] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:16:05,824] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.017 seconds
+[2024-04-06 13:16:46,799] {processor.py:153} INFO - Started process (PID=4520) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:16:46,800] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:16:46,801] {logging_mixin.py:115} INFO - [2024-04-06 13:16:46,801] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:16:46,802] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:16:46,814] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:17:28,958] {processor.py:153} INFO - Started process (PID=4590) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:17:28,960] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:17:28,960] {logging_mixin.py:115} INFO - [2024-04-06 13:17:28,960] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:17:28,962] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:17:28,973] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:18:09,740] {processor.py:153} INFO - Started process (PID=4660) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:18:09,741] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:18:09,742] {logging_mixin.py:115} INFO - [2024-04-06 13:18:09,742] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:18:09,743] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:18:09,755] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:18:51,351] {processor.py:153} INFO - Started process (PID=4721) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:18:51,353] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:18:51,354] {logging_mixin.py:115} INFO - [2024-04-06 13:18:51,354] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:18:51,355] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:18:51,367] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:19:34,519] {processor.py:153} INFO - Started process (PID=4872) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:19:34,521] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:19:34,521] {logging_mixin.py:115} INFO - [2024-04-06 13:19:34,521] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:19:34,522] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:19:34,533] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:20:14,479] {processor.py:153} INFO - Started process (PID=4939) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:20:14,480] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:20:14,481] {logging_mixin.py:115} INFO - [2024-04-06 13:20:14,481] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:20:14,482] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:20:14,493] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:20:59,015] {processor.py:153} INFO - Started process (PID=5013) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:20:59,016] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:20:59,017] {logging_mixin.py:115} INFO - [2024-04-06 13:20:59,016] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:20:59,018] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:20:59,030] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:21:46,126] {processor.py:153} INFO - Started process (PID=5084) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:21:46,128] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:21:46,128] {logging_mixin.py:115} INFO - [2024-04-06 13:21:46,128] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:21:46,129] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:21:46,141] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:22:30,315] {processor.py:153} INFO - Started process (PID=5185) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:22:30,317] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:22:30,317] {logging_mixin.py:115} INFO - [2024-04-06 13:22:30,317] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:22:30,319] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:22:30,331] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:23:15,114] {processor.py:153} INFO - Started process (PID=5262) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:23:15,116] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:23:15,117] {logging_mixin.py:115} INFO - [2024-04-06 13:23:15,116] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:23:15,118] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:23:15,130] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:24:01,034] {processor.py:153} INFO - Started process (PID=5345) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:24:01,036] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:24:01,036] {logging_mixin.py:115} INFO - [2024-04-06 13:24:01,036] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:24:01,038] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:24:01,049] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:24:50,474] {processor.py:153} INFO - Started process (PID=5441) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:24:50,476] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:24:50,476] {logging_mixin.py:115} INFO - [2024-04-06 13:24:50,476] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:24:50,477] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:24:50,487] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.016 seconds
+[2024-04-06 13:25:34,752] {processor.py:153} INFO - Started process (PID=5512) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:25:34,754] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:25:34,754] {logging_mixin.py:115} INFO - [2024-04-06 13:25:34,754] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:25:34,756] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:25:34,769] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.021 seconds
+[2024-04-06 13:26:15,831] {processor.py:153} INFO - Started process (PID=5581) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:26:15,832] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:26:15,833] {logging_mixin.py:115} INFO - [2024-04-06 13:26:15,833] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:26:15,834] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:26:15,845] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:26:55,307] {processor.py:153} INFO - Started process (PID=5649) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:26:55,308] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:26:55,309] {logging_mixin.py:115} INFO - [2024-04-06 13:26:55,309] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:26:55,310] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:26:55,322] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:27:42,359] {processor.py:153} INFO - Started process (PID=5722) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:27:42,361] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:27:42,361] {logging_mixin.py:115} INFO - [2024-04-06 13:27:42,361] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:27:42,363] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:27:42,374] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:28:32,022] {processor.py:153} INFO - Started process (PID=5805) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:28:32,024] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:28:32,024] {logging_mixin.py:115} INFO - [2024-04-06 13:28:32,024] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:28:32,026] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:28:32,037] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:29:22,672] {processor.py:153} INFO - Started process (PID=5897) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:29:22,673] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:29:22,674] {logging_mixin.py:115} INFO - [2024-04-06 13:29:22,674] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:29:22,675] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:29:22,687] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:30:13,815] {processor.py:153} INFO - Started process (PID=6001) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:30:13,817] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:30:13,818] {logging_mixin.py:115} INFO - [2024-04-06 13:30:13,818] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:30:13,819] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:30:13,831] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:30:59,440] {processor.py:153} INFO - Started process (PID=6072) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:30:59,441] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:30:59,442] {logging_mixin.py:115} INFO - [2024-04-06 13:30:59,442] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:30:59,444] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:30:59,456] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:31:35,372] {processor.py:153} INFO - Started process (PID=6133) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:31:35,373] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:31:35,374] {logging_mixin.py:115} INFO - [2024-04-06 13:31:35,373] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:31:35,375] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:31:35,386] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:32:43,359] {processor.py:153} INFO - Started process (PID=6315) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:32:43,361] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:32:43,361] {logging_mixin.py:115} INFO - [2024-04-06 13:32:43,361] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:32:43,363] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:32:43,377] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.022 seconds
+[2024-04-06 13:34:40,467] {processor.py:153} INFO - Started process (PID=6571) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:34:40,469] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:34:40,469] {logging_mixin.py:115} INFO - [2024-04-06 13:34:40,469] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:34:40,471] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:34:40,485] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.022 seconds
+[2024-04-06 13:35:58,242] {processor.py:153} INFO - Started process (PID=6751) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:35:58,243] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:35:58,244] {logging_mixin.py:115} INFO - [2024-04-06 13:35:58,244] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:35:58,245] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:35:58,259] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.020 seconds
+[2024-04-06 13:37:23,512] {processor.py:153} INFO - Started process (PID=6939) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:37:23,514] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:37:23,515] {logging_mixin.py:115} INFO - [2024-04-06 13:37:23,514] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:37:23,516] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:37:23,531] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.023 seconds
+[2024-04-06 13:38:16,346] {processor.py:153} INFO - Started process (PID=7050) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:38:16,348] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:38:16,349] {logging_mixin.py:115} INFO - [2024-04-06 13:38:16,349] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:38:16,350] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:38:16,366] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.023 seconds
+[2024-04-06 13:39:10,651] {processor.py:153} INFO - Started process (PID=7167) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:39:10,652] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:39:10,653] {logging_mixin.py:115} INFO - [2024-04-06 13:39:10,653] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:39:10,654] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:39:10,669] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.022 seconds
+[2024-04-06 13:40:05,558] {processor.py:153} INFO - Started process (PID=7282) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:40:05,560] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:40:05,561] {logging_mixin.py:115} INFO - [2024-04-06 13:40:05,561] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:40:05,562] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:40:05,577] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.022 seconds
+[2024-04-06 13:41:03,566] {processor.py:153} INFO - Started process (PID=7393) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:41:03,568] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:41:03,569] {logging_mixin.py:115} INFO - [2024-04-06 13:41:03,569] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:41:03,570] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:41:03,581] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:42:00,563] {processor.py:153} INFO - Started process (PID=7506) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:42:00,564] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:42:00,565] {logging_mixin.py:115} INFO - [2024-04-06 13:42:00,565] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:42:00,566] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:42:00,578] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:43:13,952] {processor.py:153} INFO - Started process (PID=7632) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:43:13,953] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:43:13,954] {logging_mixin.py:115} INFO - [2024-04-06 13:43:13,954] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:43:13,955] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:43:13,966] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:44:13,423] {processor.py:153} INFO - Started process (PID=7741) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:44:13,425] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:44:13,426] {logging_mixin.py:115} INFO - [2024-04-06 13:44:13,425] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:44:13,427] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:44:13,439] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:45:08,166] {processor.py:153} INFO - Started process (PID=7848) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:45:08,168] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:45:08,169] {logging_mixin.py:115} INFO - [2024-04-06 13:45:08,169] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:45:08,170] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:45:08,182] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.020 seconds
+[2024-04-06 13:45:59,484] {processor.py:153} INFO - Started process (PID=7954) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:45:59,486] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:45:59,487] {logging_mixin.py:115} INFO - [2024-04-06 13:45:59,486] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:45:59,488] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:45:59,500] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:46:47,485] {processor.py:153} INFO - Started process (PID=8058) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:46:47,487] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:46:47,488] {logging_mixin.py:115} INFO - [2024-04-06 13:46:47,487] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:46:47,489] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:46:47,503] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.021 seconds
+[2024-04-06 13:47:34,479] {processor.py:153} INFO - Started process (PID=8161) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:47:34,481] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:47:34,481] {logging_mixin.py:115} INFO - [2024-04-06 13:47:34,481] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:47:34,482] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:47:34,494] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:48:22,600] {processor.py:153} INFO - Started process (PID=8265) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:48:22,602] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:48:22,603] {logging_mixin.py:115} INFO - [2024-04-06 13:48:22,603] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:48:22,604] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:48:22,616] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:49:11,754] {processor.py:153} INFO - Started process (PID=8369) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:49:11,755] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:49:11,756] {logging_mixin.py:115} INFO - [2024-04-06 13:49:11,756] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:49:11,757] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:49:11,769] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:49:59,891] {processor.py:153} INFO - Started process (PID=8472) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:49:59,893] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:49:59,893] {logging_mixin.py:115} INFO - [2024-04-06 13:49:59,893] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:49:59,895] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:49:59,906] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
+[2024-04-06 13:50:50,187] {processor.py:153} INFO - Started process (PID=8578) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:50:50,189] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:50:50,190] {logging_mixin.py:115} INFO - [2024-04-06 13:50:50,189] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:50:50,191] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:50:50,202] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.018 seconds
+[2024-04-06 13:51:36,824] {processor.py:153} INFO - Started process (PID=8681) to work on /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:51:36,826] {processor.py:641} INFO - Processing file /home/airflow/dags/lead_scoring_data_pipeline/constants.py for tasks to queue
+[2024-04-06 13:51:36,826] {logging_mixin.py:115} INFO - [2024-04-06 13:51:36,826] {dagbag.py:508} INFO - Filling up the DagBag from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:51:36,828] {processor.py:653} WARNING - No viable dags retrieved from /home/airflow/dags/lead_scoring_data_pipeline/constants.py
+[2024-04-06 13:51:36,839] {processor.py:161} INFO - Processing /home/airflow/dags/lead_scoring_data_pipeline/constants.py took 0.019 seconds
