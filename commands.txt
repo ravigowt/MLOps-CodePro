@@ -1,0 +1,16 @@
+To StartMLFlow:
+    mlflow server --backend-store-uri='sqlite:///./database/lead_scoring_model_experimentation.db' --default-artifact-root="./mlruns" --port=6006 --host=0.0.0.0
+    
+With this you should be able to run the data pipeline. Follow the instructions given below and take the screenshot of Airflow UI for submission.
+    A. Go to airflow.cfg file and make the following changes:
+        1. Change the base_url to ‘http://localhost:6007’.
+        2. Change the web server port to 6007.
+    B. Now, run the following commands:
+        1. Run the airflow db init command to initialise the database.
+        2. Run the following command to create a user to access the database:
+           airflow users create --username <argument> --firstname <argument> --lastname <argument> --role Admin --email <argument> --password <argument>
+		   Note: All the <argument> needs to replaced by your input. For eg: airflow users create --username upgrad --firstname upgrad --lastname upgrad --role Admin --email spiderman@superhero.org --password admin
+        3. Start the Airflow server: airflow webserver
+        4. Go to a new terminal and run the command to start the scheduler: airflow scheduler
+
+    C. Now go to Jarvis dashboard and select the API Endpoint 1. Enter the credentials of the user that you created above. With this you will see your Airflow dashboard.
