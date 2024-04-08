@@ -1,0 +1,38 @@
+[2024-04-08 16:56:11,541] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Lead_scoring_training_pipeline.training_model manual__2024-04-08T16:55:34.816887+00:00 [queued]>
+[2024-04-08 16:56:11,546] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: Lead_scoring_training_pipeline.training_model manual__2024-04-08T16:55:34.816887+00:00 [queued]>
+[2024-04-08 16:56:11,546] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2024-04-08 16:56:11,546] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2024-04-08 16:56:11,546] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2024-04-08 16:56:11,608] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): training_model> on 2024-04-08 16:55:34.816887+00:00
+[2024-04-08 16:56:11,616] {standard_task_runner.py:52} INFO - Started process 5389 to run task
+[2024-04-08 16:56:11,619] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'Lead_scoring_training_pipeline', 'training_model', 'manual__2024-04-08T16:55:34.816887+00:00', '--job-id', '106', '--raw', '--subdir', 'DAGS_FOLDER/lead_scoring_training_pipeline/.ipynb_checkpoints/lead_scoring_training_pipeline-checkpoint.py', '--cfg-path', '/tmp/tmp4497jjrk', '--error-file', '/tmp/tmps2x4fpba']
+[2024-04-08 16:56:11,620] {standard_task_runner.py:80} INFO - Job 106: Subtask training_model
+[2024-04-08 16:56:11,709] {task_command.py:371} INFO - Running <TaskInstance: Lead_scoring_training_pipeline.training_model manual__2024-04-08T16:55:34.816887+00:00 [running]> on host 5e833cee3343
+[2024-04-08 16:56:11,782] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Lead_scoring_training_pipeline
+AIRFLOW_CTX_TASK_ID=training_model
+AIRFLOW_CTX_EXECUTION_DATE=2024-04-08T16:55:34.816887+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-04-08T16:55:34.816887+00:00
+[2024-04-08 16:56:11,783] {logging_mixin.py:115} INFO - 2.6.0
+[2024-04-08 16:56:11,789] {logging_mixin.py:115} INFO - Loading 'features' table
+[2024-04-08 16:56:15,506] {logging_mixin.py:115} INFO - Loading 'target' table
+[2024-04-08 16:56:15,748] {utils.py:187} INFO - Creating mlflow experiment
+[2024-04-08 16:56:16,034] {logging_mixin.py:115} WARNING - /opt/conda/lib/python3.8/site-packages/sklearn/utils/validation.py:72 DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+[2024-04-08 16:56:16,134] {logging_mixin.py:115} INFO - [LightGBM] [Warning] bagging_fraction is set=0.6, subsample=1.0 will be ignored. Current value: bagging_fraction=0.6
+[2024-04-08 16:56:16,134] {logging_mixin.py:115} INFO - [LightGBM] [Warning] feature_fraction is set=0.7, colsample_bytree=1.0 will be ignored. Current value: feature_fraction=0.7
+[2024-04-08 16:56:16,134] {logging_mixin.py:115} INFO - [LightGBM] [Warning] bagging_freq is set=3, subsample_freq=0 will be ignored. Current value: bagging_freq=3
+[2024-04-08 16:56:20,795] {logging_mixin.py:115} WARNING - Registered model 'LightGBM' already exists. Creating a new version of this model...
+[2024-04-08 16:56:20,866] {logging_mixin.py:115} WARNING - 2024/04/08 16:56:20 INFO mlflow.tracking._model_registry.client: Waiting up to 300 seconds for model version to finish creation.                     Model name: LightGBM, version 4
+[2024-04-08 16:56:20,866] {logging_mixin.py:115} WARNING - Created version '4' of model 'LightGBM'.
+[2024-04-08 16:56:21,186] {logging_mixin.py:115} INFO - Precision= 0.7381294847102022
+[2024-04-08 16:56:21,186] {logging_mixin.py:115} INFO - Recall= 0.7502264934465457
+[2024-04-08 16:56:21,186] {logging_mixin.py:115} INFO - AUC= 0.7502264934465457
+[2024-04-08 16:56:21,872] {logging_mixin.py:115} INFO - Inside MLflow Run with id 882f5be25c754d9cbd17f88ff11f753a
+[2024-04-08 16:56:21,984] {python.py:173} INFO - Done. Returned value was: None
+[2024-04-08 16:56:22,011] {taskinstance.py:1415} INFO - Marking task as SUCCESS. dag_id=Lead_scoring_training_pipeline, task_id=training_model, execution_date=20240408T165534, start_date=20240408T165611, end_date=20240408T165622
+[2024-04-08 16:56:22,132] {local_task_job.py:156} INFO - Task exited with return code 0
+[2024-04-08 16:56:22,160] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

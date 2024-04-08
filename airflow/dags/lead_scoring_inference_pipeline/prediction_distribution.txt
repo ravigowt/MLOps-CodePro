@@ -1,3 +1,15 @@
 Prediction ratio for the date Sat Apr  6 13:36:57 2024 
  1   60.96% 
  0   39.04%
+Prediction ratio for the date Mon Apr  8 16:47:55 2024 
+ 1   60.96% 
+ 0   39.04%
+Prediction ratio for the date Mon Apr  8 16:48:08 2024 
+ 1   60.96% 
+ 0   39.04%
+Prediction ratio for the date Mon Apr  8 16:56:07 2024 
+ 1   60.96% 
+ 0   39.04%
+Prediction ratio for the date Mon Apr  8 17:00:25 2024 
+ 1   60.96% 
+ 0   39.04%
